@@ -1,0 +1,13 @@
+name: InventoriesItems
+
+version: '${project.version}'
+api-version: '${plugin.api.version}'
+
+authors: [ YouKlike ]
+description: '${project.description}'
+
+main: cookie.main.InventoriesItems
+
+commands:
+  Menu:
+    description: open menu.
